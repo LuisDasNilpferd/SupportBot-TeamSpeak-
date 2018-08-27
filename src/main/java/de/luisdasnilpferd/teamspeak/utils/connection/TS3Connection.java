@@ -4,9 +4,19 @@ import com.github.theholywaffle.teamspeak3.TS3Api;
 import com.github.theholywaffle.teamspeak3.TS3Config;
 import com.github.theholywaffle.teamspeak3.TS3Query;
 
-/**
- * Created by LuisDasNilpferd | Luis Gar.
- */
+/*********************************************************************************
+ *   Urheberrechtshinweis                                                         *
+ *   Copyright © Luis Garcia 2018                                                 *
+ *   Erstellt: 26.08.2018 / 15:01                                                  *
+ *                                                                                *
+ *   Alle Inhalte dieses Quelltextes sind urheberrechtlich geschützt.             *
+ *   Das Urheberrecht liegt, soweit nicht ausdrücklich anderes gekennzeichnet,    *
+ *   bei Luis Garcia. Alle Rechte vorbehalten.                                    *
+ *                                                                                *
+ *   Jede Art der Vervielfältigung, Verbreitung, Vermietung, Verleihung,          *
+ *   öffentlichen Zugänglichmachung oder andere Nutzung                           *
+ *   bedarf der ausdrücklichen, schriftlichen Zustimmung von Luis Garcia.         *
+ *********************************************************************************/
 
 public class TS3Connection {
 
