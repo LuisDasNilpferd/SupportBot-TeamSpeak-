@@ -6,8 +6,8 @@ import com.github.theholywaffle.teamspeak3.TS3Query;
 
 /*********************************************************************************
  *   Urheberrechtshinweis                                                         *
- *   Copyright © Luis Garcia 2018                                                 *
- *   Erstellt: 26.08.2018 / 15:01                                                  *
+ *   Copyright © Luis Garcia 2018    (Kunstname: LuisDasNilpferd)                 *
+ *   Erstellt: 26.08.2018 / 15:01                                                 *
  *                                                                                *
  *   Alle Inhalte dieses Quelltextes sind urheberrechtlich geschützt.             *
  *   Das Urheberrecht liegt, soweit nicht ausdrücklich anderes gekennzeichnet,    *
